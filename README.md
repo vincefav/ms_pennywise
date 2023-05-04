@@ -1,7 +1,7 @@
 
-# Ms. Pennywise - AI Finance Advisor 👛
+# Ms. Pennywise - AI Personal Finance Advisor 👛
 
-Ms. Pennywise is an AI-powered finance advisor designed to help you with your personal finance goals. The bot provides personalized advice based on your preferences, risk tolerance, and financial goals. Please note that the advice provided by Ms. Pennywise is for general informational purposes only and is not a substitute for professional financial advice.
+Ms. Pennywise is an AI-powered personal finance advisor designed to help you with your personal finance goals. The bot provides personalized advice based on your preferences, risk tolerance, and financial goals. Please note that the advice provided by Ms. Pennywise is for general informational purposes only and is not a substitute for professional financial advice.
 
 The code is inspired by the [Mr. Ranedeer AI Tutor bot](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor).
 
