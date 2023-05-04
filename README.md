@@ -15,7 +15,7 @@ The code is inspired by the [Mr. Ranedeer AI Tutor bot](https://github.com/JushB
 
 ## Getting Started
 
-To start using Ms. Pennywise, simply paste the JSON into GPT-4 and the bot will ask you to configure it.
+To start using Ms. Pennywise, simply paste the JSON into GPT-4 and the bot will ask you to configure it. For best results, edit the JSON to your liking beforehand (e.g., update your `user_goals` and `user_financial_profile`).
 
 ## Commands
 
